@@ -7,8 +7,14 @@ This tool can generate a sequence of numbers that represents the sequence of pag
 
 > Paginator [document pages number]
 
+## Settings 
 
-## Margin
+### Margin Setting
 
-Top/Down/Right - default
-Left - 1cm
+Top/Down/Right - default, Left - 1cm
+
+### Print Setting
+
+![Print Setting](https://github.com/ocortassa/paginator/blob/master/booklet_print_settings.png)
+
+(sorry for italian)
