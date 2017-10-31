@@ -15,6 +15,6 @@ Top/Down/Right - default, Left - 1cm
 
 ### Print Setting
 
-![Print Setting](https://github.com/ocortassa/paginator/blob/master/booklet_print_settings.png)
+![Print Setting](https://github.com/ocortassa/paginator/blob/ed38c6a3f4c3253dc6defab1308df8fe0c37459d/booklet_print_settings.png?raw=true)
 
 (sorry for italian)
